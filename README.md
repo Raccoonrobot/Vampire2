@@ -1,8 +1,8 @@
-#Project descrip
+# Project descrip
 Vampire2 is a online recording of a VtM tabletop game is was playing with friends
 
-##Project components
+## Project components
 
-+html
-+css
++ html
++ css
 
